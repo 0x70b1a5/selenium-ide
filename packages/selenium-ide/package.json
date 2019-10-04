@@ -44,6 +44,16 @@
         "ext": "sideproj",
         "name": "Selenium IDE project",
         "role": "Editor"
+      },
+      {
+        "ext": "SIDE",
+        "name": "Selenium IDE 3 project",
+        "role": "Editor"
+      },
+      {
+        "ext": "SIDEPROJ",
+        "name": "Selenium IDE project",
+        "role": "Editor"
       }
     ]
   },
